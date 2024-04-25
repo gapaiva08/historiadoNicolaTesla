@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #174dff;
+    background-color: #344799;
     color: #fff;
     text-align: center;
     padding: 1em 0;
@@ -50,8 +50,12 @@ main {
 }
 
 footer {
-    background-color: #174dff;
+    background-color: #344799;
     color: #fff;
     text-align: center;
     padding: 1em 0;
+}
+A
+{
+  color: #fff;
 }
