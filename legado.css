@@ -1,0 +1,41 @@
+body { 
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #174dff;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.section {
+    padding: 2rem;
+    background-color: #fff;
+    margin: 2rem 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.section h2 {
+    color: #007bff;
+    margin-top: 0;
+}
+
+.section p {
+    line-height: 1.6;
+}
+
+footer {
+    background-color: #174dff;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
